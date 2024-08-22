@@ -1,0 +1,46 @@
+
+.navbar {
+    background-color: #007bff;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .navwelcome {
+    color: #ffffff;
+    margin: 0;
+    padding-right: 80px;
+    font-size: 1.1em;
+    font-weight: 500;
+    text-align: right;
+  }
+  
+  .MuiToolbar-root {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .MuiIconButton-root {
+    color: #ffffff;
+  }
+  
+  .MuiTypography-root {
+    color: #ffffff;
+    font-weight: 700;
+  }
+  
+  .MuiButton-root {
+    color: #ffffff;
+    font-weight: 500;
+    transition: color 0.3s ease, background-color 0.3s ease;
+  }
+  
+  .MuiButton-root:hover {
+    background-color: #20ad73;
+    color: #ffffff;
+  }
+  
+  .MuiButton-root.Mui-selected {
+    background-color: #0056b3;
+    color: #ffffff;
+  }
+  
